@@ -1,5 +1,4 @@
 # Class holds needing functions to run the PttCrawler.py and PttKeywordMonitor.py
-from re import L
 import requests # Allows python to send HTTP Request
 from bs4 import BeautifulSoup # Structured crawed information
 

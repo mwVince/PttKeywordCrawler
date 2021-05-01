@@ -27,10 +27,10 @@ The scripts uses smtp server for gmail, if wnats to use a different server, plea
 Use `control-C` to terminate the process.
 
 ### User Specified Parameters
-  Broad: which board to craw on Ptt
-  Keyword: what keyword to look for in title
-  Interval: how often to check for new articles in second
-  Sender Email Address: gmail address (myAccount@gmail.com)
-  Sender Email Password: password for the sender gmail account
+  - Broad: which board to craw on Ptt
+  - Keyword: what keyword to look for in title
+  - Interval: how often to check for new articles in second
+  - Sender Email Address: gmail address (myAccount@gmail.com)
+  - Sender Email Password: password for the sender gmail account
   
 

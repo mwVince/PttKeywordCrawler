@@ -6,3 +6,6 @@ __pycache__/
 
 export_file/
 Try.py
+
+# MacOS system file
+.DS_Store
